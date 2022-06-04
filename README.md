@@ -1,8 +1,8 @@
 # dart_scripthash_generator_server
-[![Dart](https://github.com/willyfromtheblock/dart_scripthash_generator/actions/workflows/dart.yml/badge.svg)](https://github.com/willyfromtheblock/dart_scripthash_generator/actions/workflows/dart.yml)  
+[![Dart](https://github.com/willyfromtheblock/dart_scripthash_generator_server/actions/workflows/dart.yaml/badge.svg)](https://github.com/willyfromtheblock/dart_scripthash_generator_server/actions/workflows/dart.yaml)  
 Simple microservice to generate Electrum scripthashes from addresses.
-Based on [coinslib](https://github.com/Vesta-wallet/coinslib/ "coinslib").
-Also available as [cli-tool](https://github.com/willyfromtheblock/dart_scripthash_generator" "cli-tool").
+Based on [coinslib](https://github.com/Vesta-wallet/coinslib/ "coinslib").  
+Also available as [cli-tool](https://github.com/willyfromtheblock/dart_scripthash_generator "cli-tool").
 
 ### Prerequisites
 - docker-compose
