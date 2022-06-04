@@ -2,7 +2,7 @@ import 'package:shelf/shelf.dart';
 import 'package:shelf_router/shelf_router.dart';
 import 'package:coinslib/coinslib.dart';
 import 'package:crypto/crypto.dart';
-import 'package:dart_scripthash_generator_server/networks.dart' as networks;
+import 'package:dart_scripthash_server/networks.dart' as networks;
 
 Future<Response> getScripthashHandler(Request request) async {
   final network = request.params['network'];

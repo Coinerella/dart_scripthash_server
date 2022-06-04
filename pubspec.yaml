@@ -1,4 +1,4 @@
-name: dart_scripthash_generator_server
+name: dart_scripthash_server
 description: A microservice that will generate electrum scripthashes.
 version: 1.0.0
 
